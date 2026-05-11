@@ -36,7 +36,7 @@ Built to learn the basics of C++ and how firewalls operate on a packet level. Im
 ---
 
 ## Security concepts demonstrated
-**Stateless packet filtering** — rules evaluated per-packet with no session tracking
+- **Stateless packet filtering** — rules evaluated per-packet with no session tracking
 - **Port-based access control** — analogous to ACLs on enterprise routers/firewalls
 - **Protocol discrimination** — separate handling of TCP (6) vs UDP (17) traffic
 - **Default deny principle** — Denies all network traffic as a test to see if the firewall is actually blocking inbound packets
